@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my github
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=trn64x&theme=dark" alt="GitHub Streak" /></a>
 <!--
 **trn64x/trn64x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
