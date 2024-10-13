@@ -7,3 +7,5 @@
 <p>thank you for watching my github</p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&color=F71D1D&width=435&lines=What+im+working+on" alt="Typing SVG" /></a>
 <p>My goal is to learn python, responsive website designs, c++ and way more! My most recent goal is to systematically update my github with projects.</p>
+<p>🐍 When i was active on github? This days!:</p>
+<p>https://raw.githubusercontent.com/Magic-Forces/Magic-Forces/output/github-contribution-grid-snake-dark.svg</p>
