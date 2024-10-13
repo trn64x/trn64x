@@ -1,7 +1,7 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=30&pause=1000&color=F71D1D&width=435&lines=Trn64x+Github+Page" alt="Typing SVG" /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=trn64x&theme=dark" alt="GitHub Streak" /></a>
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&color=F71D1D&width=435&lines=My+socials" alt="Typing SVG" /></a></p>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/beaker.svg" /><!--
+
 **trn64x/trn64x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
