@@ -9,4 +9,4 @@
 <p>My goal is to learn python, responsive website designs, c++ and way more! My most recent goal is to systematically update my github with projects.</p>
 <p>🐍 When i was active on github? This days!:</p>
 ## Snake
-![snake gif](https://github.com/trn64x/trn64x/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/trn64x/trn64x/blob/output/github-contribution-grid-snake2.svg)
