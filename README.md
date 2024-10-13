@@ -8,5 +8,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&color=F71D1D&width=435&lines=What+im+working+on" alt="Typing SVG" /></a>
 <p>My goal is to learn python, responsive website designs, c++ and way more! My most recent goal is to systematically update my github with projects.</p>
 <p>🐍 When i was active on github? This days!:</p>
-![snake animation](https://github.com/trn64x/trn64x/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/trn64x/trn64x/refs/heads/output/github-contribution-grid-snake-dark.svg">
 
