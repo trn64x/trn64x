@@ -1,5 +1,6 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=30&pause=1000&color=F71D1D&width=435&lines=Trn64x+Github+Page" alt="Typing SVG" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=trn64x&theme=git-dark&date_format=j%2Fn%5B%2FY%5D&card_width=800)](https://git.io/streak-stats)
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&color=F71D1D&width=435&lines=About+Me" alt="Typing SVG" /></a></p>
 <p>
 Hi im Trn64x, im thirsty to learn programmer with passion, at this point of life im searching for what I want to do and what type of career should I fully focus on.
 </p>
