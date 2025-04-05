@@ -1,5 +1,5 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=30&pause=1000&color=F71D1D&width=435&lines=Trn64x+Github+Page" alt="Typing SVG" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=trn64x&theme=git-dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=trn64x&theme=git-dark" alt="GitHub Streak git" /></a>
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&color=F71D1D&width=435&lines=About+Me" alt="Typing SVG" /></a></p>
 Hi im trn thank you for watching my github
 <p></p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&color=F71D1D&width=435&lines=What+im+working+on" alt="Typing SVG" /></a></p>
