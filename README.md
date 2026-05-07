@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Trn64x 👋
-
 **japierdole**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40Trn64x-181717.svg?logo=github&variant=branded&theme=zinc)](https://github.com/Trn64x)
