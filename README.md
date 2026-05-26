@@ -1,7 +1,5 @@
 <div align="center">
 
-**japierdole**
-
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40Trn64x-181717.svg?logo=github&variant=branded&theme=zinc)](https://github.com/Trn64x)
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/Trn64x.svg?variant=secondary&theme=zinc)](https://github.com/Trn64x?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/Trn64x.svg?variant=secondary&theme=zinc)](https://github.com/Trn64x?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-46-2563eb.svg?logo=github&variant=secondary&theme=zinc)](https://github.com/Trn64x?tab=repositories)
