@@ -1,1 +1,1 @@
-deleting readme shit cuz its cringe xd
+W rzyciu hodzi o to żeby muc poprogramowac, i jeszcze mieć czas sie umyć i użyć dezodorantu.
